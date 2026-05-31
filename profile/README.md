@@ -1,6 +1,5 @@
 
-# 💩 Shit Go — Cagada Remunerada
-
+# 💩 Shit Go 
 > Acesse por aqui: https://shitgo-mu-ashen.vercel.app/
 
 > *Chega de cagar de graça.*
@@ -44,7 +43,7 @@ Acesse o Shit Go e transforme cada ida ao banheiro em uma vitória financeira.
 - 📊 Estatísticas de uso e desempenho  
 - 🎖️ Sistema de conquistas  
 - 👨‍👩‍👧‍👦 Famílias (competição entre grupos)  
-- 📸 Feed “Sommelier de Coco” (posts com blur de segurança)  
+- 📸 Feed “Sommelier de Coco” com avaliação das obras pelo Dr. Cléber (IA)
 - ❤️ Curtidas e avaliações entre usuários  
 - 🔐 Autenticação JWT com rotas protegidas  
 
