@@ -2,7 +2,7 @@
 # 💩 Shit Go 
 > Acesse por aqui: https://shitgo-mu-ashen.vercel.app/
 
-> *Chega de cagar de graça.*
+> *Trabalhar é obrigatório. Cagar é inevitável. Lucrar deveria ser os dois.*
 
 Você trabalha o dia inteiro, responde mensagens, participa de reuniões que poderiam ser e-mail, aguenta prazos e cobranças.  
 Mas existe um momento de paz: a ida ao banheiro.
@@ -27,10 +27,6 @@ Seu chefe ganha dinheiro enquanto você trabalha.
 Agora você também ganha dinheiro enquanto caga.
 
 Acesse o Shit Go e transforme cada ida ao banheiro em uma vitória financeira.
-
-> *Trabalhar é obrigatório. Cagar é inevitável. Lucrar deveria ser os dois.*
-
-🔗 Apresentação: https://canva.link/360prnwzhwu4wx9
 
 ---
 
