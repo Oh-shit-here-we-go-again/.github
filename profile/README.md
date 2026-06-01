@@ -1,6 +1,4 @@
-
 # 💩 Shit Go 
-> Acesse por aqui: https://shitgo-mu-ashen.vercel.app/
 
 > *Trabalhar é obrigatório. Cagar é inevitável. Lucrar deveria ser os dois.*
 
